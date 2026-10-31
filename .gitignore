@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
+.swiftpm/
+DerivedData/
+Package.resolved.lock
+
+# 빌드 산출물
+*.app
+*.dmg
+dist/
+
+# 환경 변수
+.env
